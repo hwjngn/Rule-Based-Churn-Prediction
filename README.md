@@ -13,3 +13,12 @@ Using a public retail banking churn dataset as a real-world simulation, I develo
 Banks generally spend significantly more to acquire a new customer than to retain an existing one. My stakeholder (e.g., the Bank Manager) needs a tool that doesn't just tell them who left, but who is likely to leave next month so they can intervene with a special offer.
 
 Goal: Reduce customer attrition (churn) by identifying "at-risk" customers before they leave.
+
+### Methodology:
+1. Use MySQL queries in MySQL Workbench to extract, clean, and transform customer data, and calculate churn rates for different segments.
+2. Build a churn risk scorecard in SQL by assigning weighted points to key factors like number of products, geography, activity status, age, gender, and balance.
+3. Create a Power BI dashboard to visualize and track at-risk customers, helping prioritize retention strategies.
+
+### Skills:
+SQL: CTEs, Joins, CASE statements, Aggregate functions, Window functions, Data cleaning & transformation
+Power BI: DAX formulas, Calculated columns & measures, ETL, Data modeling, Interactive dashboards, Data visualization
