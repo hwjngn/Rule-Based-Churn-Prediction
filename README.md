@@ -1,3 +1,5 @@
+[WORK IN PROGRESS]
+
 # Rule-Based Customer Retention Engine using SQL & PowerBI.
 
 ## Executive Summary
