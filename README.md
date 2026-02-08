@@ -2,7 +2,7 @@
 
 # Rule-Based Customer Retention Engine using SQL & PowerBI.
 
-<img width="1589" height="894" alt="image" src="https://github.com/user-attachments/assets/8a97e856-cb01-480a-8498-9a419d5b9e93" />
+<img alt="image" src="/Assets/churn_prediction_dashboard.png" />
 
 ## Executive Summary
 Using a public retail banking churn dataset as a real-world simulation, I developed a proactive Customer Retention Engine in SQL and Power BI to demonstrate how an organization can transition from reactive reporting to forward-looking, risk-based intervention. The solution transforms raw customer behavior into a transparent, weighted risk scorecard that surfaces key attrition drivers such as product concentration, inactivity among high-balance users, and demographic risk patterns. Customers are segmented into clear, actionable risk tiers that mirror how retention strategies would be prioritized in practice. As a result, the approach:
